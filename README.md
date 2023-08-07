@@ -4,7 +4,7 @@
 - gRPC는 철저히 '민덕이네 개발노트'의 민덕이님의 코드를 빌려서 사용했다. [출처 : 민덕이네 개발노트](https://minddong.tistory.com/71)
 
 ## 성능 분석 방법
-- client인 node js의 console.time()과 console.endTime()을 사용했다.
+- client인 node js의 console.time()과 console.timeEnd()을 사용했다.
 
 ## 성능분석결과
 ||10번|100번|1000번|
